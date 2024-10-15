@@ -45,17 +45,16 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40"/>&nbsp;&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" width="40"/>&nbsp;&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40" width="40">&nbsp;&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="holaaaa"/>&nbsp;&nbsp;   
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40"/>&nbsp;&nbsp;   
             <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" height="40" width="40">&nbsp;&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="40" width="40"/>&nbsp;&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="40" width="40"/>&nbsp;&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" width="40"/>&nbsp;&nbsp;
-                   
+            <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" width="40"/>&nbsp;&nbsp;                   
             </div>
     </div>
     <hr/>
   <h2>Contact Me</h2>
-Email 📫 -> <a href="mailto:jorgelabrador3108@gmail.com">@Jorge_Labrador</a> <br/>
+Email 📫 -> <a href="mailto:jorgelabrador3108@gmail.com">@jorgelabrador</a> <br/>
 LinkedIn -> <a href="https://linkedin.com/in/jorge-labrador-perez">Jorge Labrador</a> <br/>
 </body>
 </html>
